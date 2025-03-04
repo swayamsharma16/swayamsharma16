@@ -45,15 +45,7 @@
 
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=swayamsharma16&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=swayamsharma16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
-
-
-
+| <a href="https://github.com/swayamsharma16"><img align="center" src="https://github-readme-stats.vercel.app/api?username=swayamsharma16&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues,stars" alt="Swayam's GitHub stats" /></a> | <a href="https://github.com/swayamsharma16"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamsharma16&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
